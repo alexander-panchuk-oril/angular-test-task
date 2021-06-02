@@ -14,7 +14,7 @@ P.S.S. I bet that you could do it with your eyes shut and there is literally not
 
 Your goal for the task is to show us as much as you know about Angular and Front-End development. The app should be not overcomplicated and you have to remember it's not 🚀 rocket science, so do not overcomplicate everything.
 
-Our (ORIL) goal for the task is to see how deeply you understand the technology and figure out how yoг find solutions in different situations.
+Our (ORIL) goal for the task is to see how deeply you understand the technology and figure out how you find solutions in different situations.
 
 For the test task, you have to create your own GitHub repository.
 
