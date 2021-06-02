@@ -30,7 +30,6 @@ For the task, we've prepared UI designs for all pages and elements that must be 
 
 **Sign Up model:**
 ``` JSON
-{
   name: "",
   username: "",
   email: "",
@@ -40,7 +39,7 @@ For the task, we've prepared UI designs for all pages and elements that must be 
       suite: "",
       city: "",
       zipcode: ""
-}
+  }
 ```
 API endpoint: **[POST]** `https://jsonplaceholder.typicode.com/users`. 
 
