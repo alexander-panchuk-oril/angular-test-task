@@ -59,7 +59,7 @@ ToDo-s List API endpoint: **[GET]** `https://jsonplaceholder.typicode.com/todos`
 
 Add a ToDo API endpoint: **[POST]** `https://jsonplaceholder.typicode.com/todos`.
 
-> NOTE: After adding new todo via API it wont be added to the ToDo-s list, your goal is to handle API response and push the ToDo locally into your ToDo-s list
+> NOTE: After adding new todo via API it wont be added to the Server ToDo-s list, your goal is to handle API response and push the ToDo locally into your ToDo-s list
 
 Update a ToDo API endpoint: **[PUT]** `https://jsonplaceholder.typicode.com/todos/${id}`
 
