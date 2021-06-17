@@ -53,14 +53,19 @@ API endpoint: **[POST]** `https://jsonplaceholder.typicode.com/users`.
   title: ""
   completed: ""
 ```
+#### 🔧 ToDo API endpoints:
 
-List API endpoint: **[GET]** `https://jsonplaceholder.typicode.com/todos`. 
+ToDo-s List API endpoint: **[GET]** `https://jsonplaceholder.typicode.com/todos`. 
 
-Add API endpoint: **[POST]** `https://jsonplaceholder.typicode.com/todos`.
+Add a ToDo API endpoint: **[POST]** `https://jsonplaceholder.typicode.com/todos`.
 
-Update API endpoint: **[PUT]** `https://jsonplaceholder.typicode.com/todos/${id}`
+> NOTE: After adding new todo via API it wont be added to the ToDo-s list, your goal is to handle API response and push the ToDo locally into your ToDo-s list
 
-Remove API endpoint: **[DELETE]** `https://jsonplaceholder.typicode.com/todos/${id}`. 
+Update a ToDo API endpoint: **[PUT]** `https://jsonplaceholder.typicode.com/todos/${id}`
+
+Remove a ToDo API endpoint: **[DELETE]** `https://jsonplaceholder.typicode.com/todos/${id}`.
+
+> NOTE: Take notice that after updating or removing a newly create ToDo, server API would throw an error. Please handle that error and make changes locally
 
 4. New todo should appear at the top of the list.
 
